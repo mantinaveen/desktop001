@@ -1,1 +1,2 @@
-git remote add origin https://github.com/mantinaveen/git001.gitxbzdze
+git remote add origin https://git
+hub.com/mantinaveen/git001.gitxbzdze
